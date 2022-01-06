@@ -1,0 +1,3 @@
+Summary Net: python test.py >> binary-resnet18.txt
+
+python train.py --train --ckpt_path=./checkpoint/1 --train_csv_file=./data/1_style_binary_train.csv --val_csv_file=./data/1_style_binary_val.csv --train_batch_size=136 --val_batch_size=128 --train >> train1.txt

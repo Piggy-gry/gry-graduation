@@ -1,0 +1,4 @@
+AVA_dataset_root_path='/home/lab325/gry/Innovative/AVA_dataset'
+AVA_all_images_path='/home/lab325/gry/Innovative/AVA_dataset/all_images'
+AVA_style_class_path='/home/lab325/gry/Innovative/AVA_dataset/style-class'
+AVA_style_class_csv_path='/home/lab325/gry/Innovative/AVA_dataset/style-class/style_csvs'
